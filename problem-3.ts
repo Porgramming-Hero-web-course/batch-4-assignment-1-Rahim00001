@@ -21,7 +21,6 @@
 
 
     // Sample Input:
-    const count = countWordOccurrences("I love typescript TypeScript", "typescript");
-    console.log(count);
-
+    // const count = countWordOccurrences("I love typescript TypeScript", "typescript");
+    // console.log(count);
 }
